@@ -4,16 +4,16 @@ Dr Music Is A Telegram Bot Project That's Allow You To Play Music On Telegram Vo
 
 <p align="center"><a href=""> <img src="https://img.shields.io/badge/Copy%20Paster%20Ki%20Gand%20Main%20Land%20🙄😡%20Its%20Your%20Dad-black?style=for-the-badge&logo=heroku" width="720" height="58.45"/></a></p>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/36f162b5e62b86735ae71.gif" width="300"></a></p>
+<p align="center"><a href="https://t.me/Shaitaan_bacchaa"><img src="https://telegra.ph/file/36f162b5e62b86735ae71.gif" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/jankarikiduniya/Dr-Music/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/jankarikiduniya/Dr-Music/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/jankarikiduniya/Dr-Music"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/jankarikiduniya/Dr-Music/commits/main"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/jankarikiduniya/Dr-Music/issues"> <img src="https://img.shields.io/github/issues/?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/jankarikiduniya/Dr-Music/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/jankarikiduniya/Dr-Music/network/members"> <img src="https://img.shields.io/github/stars/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Adarshtiwari1305/Aadira/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/Adarshtiwari1305/Aadira/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/Adarshtiwari1305/Aadira"> <img src="https://img.shields.io/github/repo-size/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadira/commits/main"> <img src="https://img.shields.io/github/last-commit/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadira/issues"> <img src="https://img.shields.io/github/issues/?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Adarshtiwari1305/Aadira/network/members"> <img src="https://img.shields.io/github/forks/jankarikiduniya/Dr-Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Adarshtiwari1305/Aadira/network/members"> <img src="https://img.shields.io/github/stars/Adarshtiwari1305/Aadira?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 😊</h3>
@@ -30,7 +30,7 @@ Dr Music Is A Telegram Bot Project That's Allow You To Play Music On Telegram Vo
 ## Heroku Deployment ❤️
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Dr-Music-Video-Streaming)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshtiwari1305/Aadira)
 
 ### Asad– History
 
